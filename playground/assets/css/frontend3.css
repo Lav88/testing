@@ -5022,6 +5022,8 @@ a img.aligncenter {
 .header__logo-text {
     display:flex; 
     align-items:center; 
+    color: #171717;
+    padding-left: 0.5rem;
     gap:0.5rem
 }
 
@@ -10905,7 +10907,7 @@ img.gform_ajax_spinner {
 
 .site-line--right {
     left: auto;
-    right: 0;
+    right: -29;
     transform: translateX(-15px)
 }
 
